@@ -1,0 +1,5 @@
+C:/Users/souri/source/repos/SourishDevanaboyina/A9saidevanaboyina/out/build/x64-Debug/CMakeFiles/dsac.dir
+C:/Users/souri/source/repos/SourishDevanaboyina/A9saidevanaboyina/out/build/x64-Debug/CMakeFiles/my_test.dir
+C:/Users/souri/source/repos/SourishDevanaboyina/A9saidevanaboyina/out/build/x64-Debug/CMakeFiles/test.dir
+C:/Users/souri/source/repos/SourishDevanaboyina/A9saidevanaboyina/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/souri/source/repos/SourishDevanaboyina/A9saidevanaboyina/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

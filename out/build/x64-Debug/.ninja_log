@@ -1,0 +1,9 @@
+# ninja log v5
+5	4266	7965453133136437	CMakeFiles/my_test.dir/tests/test_linked_list.cpp.obj	1e5e56ba461db07
+4267	4805	7965453138348106	my_test.exe	2208abce56b2aeab
+3	4372	7965873246344935	CMakeFiles/my_test.dir/tests/test_linked_list.cpp.obj	1e5e56ba461db07
+4373	4833	7965873250294975	my_test.exe	2208abce56b2aeab
+102	4612	7965881879679005	CMakeFiles/my_test.dir/tests/test_linked_list.cpp.obj	1e5e56ba461db07
+4614	5047	7965881883065333	my_test.exe	2208abce56b2aeab
+180	4909	7966211231385575	CMakeFiles/my_test.dir/tests/test_linked_list.cpp.obj	1e5e56ba461db07
+4910	5378	7966211234837616	my_test.exe	2208abce56b2aeab
